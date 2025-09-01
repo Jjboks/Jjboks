@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesse John D. Boquecosa</h1>
-<h3 align="center">A developer from Philippines, practicing over 6 years.</h3>
+<h3 align="center">A developer from Philippines, practicing over 6 years.</h3> 
 
 - 🔭 I’m currently working on **MICA**
 
