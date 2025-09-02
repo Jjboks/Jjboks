@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jjboks123@gmail.com**
 
-- ⚡ Fun fact **I is don't understand this time situation**
+- ⚡ Fun fact **Everyday is Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
